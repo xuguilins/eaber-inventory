@@ -54,29 +54,29 @@ esccript + vite + mobx
 | 基础数据管理 | 管理系统内的基础数据          |
 ## 功能截图
 * 控制台
- > ![控制台.png](public%2Fimages%2F%E6%8E%A7%E5%88%B6%E5%8F%B0.png)
+ > ![控制台.png](images%2F%E6%8E%A7%E5%88%B6%E5%8F%B0.png)
 * 商品管理
-> ![商品管理.png](public%2Fimages%2F%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86.png)
+> ![商品管理.png](images%2F%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86.png)
 * 采购管理
    * 采购进货
-     > ![进货单.png](public%2Fimages%2F%E8%BF%9B%E8%B4%A7%E5%8D%95.png)
+     > ![进货单.png](images%2F%E8%BF%9B%E8%B4%A7%E5%8D%95.png)
    * 采购退货
-     > ![退货单.png](public%2Fimages%2F%E9%80%80%E8%B4%A7%E5%8D%95.png)
+     > ![退货单.png](images%2F%E9%80%80%E8%B4%A7%E5%8D%95.png)
  
 * 销售开单
-> ![销售开单.png](public%2Fimages%2F%E9%94%80%E5%94%AE%E5%BC%80%E5%8D%95.png)
+> ![销售开单.png](images%2F%E9%94%80%E5%94%AE%E5%BC%80%E5%8D%95.png)
 * 订单管理
 
-> ![全部订单.png](public%2Fimages%2F%E5%85%A8%E9%83%A8%E8%AE%A2%E5%8D%95.png)
+> ![全部订单.png](images%2F%E5%85%A8%E9%83%A8%E8%AE%A2%E5%8D%95.png)
 * 其它费用管理
-> ![其它费用.png](public%2Fimages%2F%E5%85%B6%E5%AE%83%E8%B4%B9%E7%94%A8.png)
+> ![其它费用.png](images%2F%E5%85%B6%E5%AE%83%E8%B4%B9%E7%94%A8.png)
 * 交易中心
   * 客户往来交易
-  > ![客户往来交易.png](public%2Fimages%2F%E5%AE%A2%E6%88%B7%E5%BE%80%E6%9D%A5%E4%BA%A4%E6%98%93.png)
+  > ![客户往来交易.png](images%2F%E5%AE%A2%E6%88%B7%E5%BE%80%E6%9D%A5%E4%BA%A4%E6%98%93.png)
   * 供应商往来交易(进货)
-  > ![供应商往来.png](public%2Fimages%2F%E4%BE%9B%E5%BA%94%E5%95%86%E5%BE%80%E6%9D%A5.png)
+  > ![供应商往来.png](images%2F%E4%BE%9B%E5%BA%94%E5%95%86%E5%BE%80%E6%9D%A5.png)
 * 基础数据管理
-  > ![基础数据管理.png](public%2Fimages%2F%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86.png)
+  > ![基础数据管理.png](images%2F%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86.png)
 ## 部署说明
 
 1.  支持IIS、Linux部署
@@ -91,7 +91,7 @@ esccript + vite + mobx
   * 如此项目对您有帮助，欢迎 **star**
   * 如您需要查看演示环境或体验演示环境，烦请联系作者
   * 如您需要本地部署或定制的需求，烦请联系作者
-  >  ![user.jpeg](public%2Fimages%2Fuser.jpeg)
+  >  ![user.jpeg](images%2Fuser.jpeg)
 #### 开源协议
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
