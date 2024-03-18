@@ -1,0 +1,28 @@
+.cateMain {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: calc(100vh - 90px);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    background: #f8f8f8;
+    .leftItem {
+        align-content: space-around;
+        border-right: 1px solid #eee;
+        margin: 0px 5px;
+        .treeMain {
+            width: 200px;
+            height: 100%;
+            background: #fff;
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+    }
+
+    .rightItem {
+        flex: auto;
+        background: #fff;
+
+    }
+}

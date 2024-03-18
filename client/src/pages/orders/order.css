@@ -1,0 +1,102 @@
+.orderMain {
+    height: calc(100vh - 230px);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+
+    .orderTop {
+        height: 100%;
+    }
+
+    .orderBottom {
+        height: 40px;
+        text-align: right;
+        line-height: 40px;
+        border-top: 1px solid #eee;
+    }
+
+    .textView {
+        color: blue
+    }
+
+    .textEdit {
+        color: #e9531c
+    }
+
+    .textPrint {
+        color: #13c513
+    }
+
+    .searchOrder {
+        align-items: flex-end;
+        height: 50px;
+        width: 100px;
+        background: red;
+        background: red;
+        display: flex;
+        justify-content: flex-end
+    }
+
+}
+
+.detailTitle {
+    text-align: center;
+    margin: 10px 0px 15px 0px;
+    padding: 0px;
+}
+
+ .mRowd {
+  
+
+    .input {
+
+        border: none;
+        font-size: 16px;
+        margin: 3px;
+    }
+} 
+.mTTAble {
+    border-spacing: 0;
+    border: 1px solid black;
+    width: 100%;
+    word-spacing: 0;
+    td {
+        border-right: 1px solid;
+        border-bottom: none;
+        text-align: left;
+        font-size: 14px;
+        border-spacing: 0;
+    }
+    th{
+      border-right: 1px solid;
+      text-align: center;
+      font-size: 14px;
+      border-bottom: 1px solid;
+      border-spacing: 0;
+        
+    }
+    td:last-child {
+        border-right: none;
+    }
+    th:last-child {
+        border-right: none;
+    }
+    .input {
+        border: none;
+        font-size: 16px;
+        margin: 3px;
+    }
+}
+.printClass {
+    font-size: 8px;
+    td{
+        font-size: 8px;
+    }
+    th {
+        font-size: 8px;
+    }
+    input {
+        font-size: 8px;
+    }
+}

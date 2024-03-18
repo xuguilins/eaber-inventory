@@ -1,0 +1,132 @@
+.demo-logo-vertical {
+    width: 94%;
+    height: 35px;
+
+    margin: 5px auto;
+    border-radius: 5px;
+    line-height: 35px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.mainContent {
+    width: 100%;
+    height: calc(100vh - 90px);
+    position: relative;
+    overflow: hidden;
+
+    .mainControl {
+        width: 100%;
+        height: calc(100vh - 130px);
+        overflow-x: hidden;
+        overflow-y: auto;
+
+        .searchBar {
+            padding: 10px 20px 10px 20px;
+            float: right;
+        }
+
+        .toolBar {
+            width: 100%;
+            height: 50px;
+            text-indent: 1rem;
+            line-height: 50px;
+            float: left;
+        }
+
+        .titleBar {
+            font-weight: 400;
+            border-bottom: 1px solid #eae3e3;
+            padding: 10px;
+            font-size: 15px;
+
+        }
+    }
+
+    .pageBar {
+        width: 100%;
+        height: 40px;
+        text-align: right;
+        line-height: 40px;
+        border-top: 1px solid #efefef;
+    }
+
+}
+
+.menuDot {
+
+    background: red;
+
+    padding: 5px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.layTab {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #e0dbdb;
+    background: #fff;
+    line-height: 40px;
+    overflow-y: hidden;
+    float: left;
+
+    div {
+        display: inline-block;
+        padding: 0px 10px;
+        border-right: 1px solid #e0dbdb;
+        text-align: center;
+        line-height: 40px;
+        cursor: pointer;
+        height: 40px;
+
+        span {
+            margin-left: 5px;
+        }
+    }
+
+    .active {
+        background: #2d89ed;
+        color: #fff;
+    }
+}
+
+.userDown {
+    float: right;
+    margin-right: 30px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.rightMenu {
+    position: absolute;
+    background: #fcfbfb;
+    border-radius: 5px;
+    border: 1px solid #dfdbdb;
+    width: 180px;
+z-index: 10;
+    .child {
+        width: 100%;
+        height: 35px;
+        text-align: left;
+        line-height: 35px;
+        color: black;
+        border-bottom: 1px solid #efefef;
+        cursor: pointer;
+        text-indent: 1rem;
+
+
+    }
+
+    .child:hover {
+        background: #e2e2e2;
+    }
+}
+.hot {
+    color: red;
+    position: absolute;
+    right: 9px;
+    top: -9px;
+}

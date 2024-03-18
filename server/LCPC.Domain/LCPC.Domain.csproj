@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+       <PackageReference Include="Dapper" Version="2.1.15" />
+       <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.2" />
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.8.0" />
+      <PackageReference Include="MediatR" Version="12.1.1" />
+      <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="8.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\LCPC.Hubs\LCPC.Hubs.csproj" />
+      <ProjectReference Include="..\LCPC.Share\LCPC.Share.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Entities\UpdateLog.cs" />
+    </ItemGroup>
+
+</Project>

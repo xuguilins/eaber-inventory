@@ -1,0 +1,103 @@
+export interface IUrlConfig {
+    getCatePage:string;
+    updateCateStatus:string;
+    getCateTree:string;
+    createCate:string;
+    deleteCate:string;
+    getSignleCate:string;
+    updateCate:string;
+    getUnits:string;
+    createRule:string;
+    updateRule:string;
+    updateRuleStatus:string;
+    deleteRule:string;
+    getSignleRule:string;
+    getRulesPage:string;
+
+    getCustomerPage:string;
+    updateCustomerStatus:string;
+    deleteCustomer:string;
+    updateCustomer:string;
+    createCustomer:string;
+
+    getSupilePage:string;
+    createSupile:string;
+    updateSupiler:string;
+    deleteSupiler:string;
+    getSignleSupiler:string;    
+    updateSupilerStatus:string;
+    importExcel:string;
+    getSupilers:string;
+    getEnableSupilers:string;
+
+    getProductPages:string;
+    getProductCates:string;
+    createProduct:string;
+    updateProduct:string;
+    deleteProduct:string;
+    updateProductStatus:string;
+
+    getProductSellPage:string;
+    checkProduct:string;
+    createOrder:string;
+    getOrderPage:string;
+    getOrderCount:string;
+    confirmOrder:string;
+    getOrderInfo:string;
+
+    getPayInfoPages:string;
+    updatePayStatus:string;
+    createPayInfo:string;
+    updatePayInfo:string;
+    deletePayInfo:string;
+    getPays:string;
+    searchProduct:string;
+
+    createPushOrder:string;
+    getInPurasePage:string;
+    getPurase:string;
+    userlogin:string;
+    refreshToken:string;
+    getHomeCards:string;
+    updatePushOrder:string;
+    getColumns:string;
+    deletePushOrder:string;
+    updatePurashStatus:string;
+    getPurashModal:string;
+    getPurashModalDetail:string;
+    createOutPurashe:string;
+    getPuraseOutPage:string;
+    getOutOrder:string;
+    updateOutPurashe:string;
+    deleteOutPurase:string;
+    updateOrder:string;
+    getOrderUsers:string;
+    getSystemDicPage:string;
+    getAllTypes:string;
+    createSystemDic:string;
+    updateSystemDic:string;
+    updateSystemStatus:string;
+    deleteSystem:string;
+    getRuleTypes:string;
+    getSysDics:string;
+    createExtra:string;
+    updateExtra:string;
+    deleteExtra:string;
+    getExtraPage:string;
+    cancleExtra:string;
+    getOrderCusPage:string;
+    exportOrderCus:string;
+    getUserOrderDetail:string;
+    getOrderDetailUser:string;
+    getSystemInfo:string;
+    getOrderColumns:string;
+    getHeightProduct:string;
+    getPurashInCusPage:string;
+    getPurashInCusTablePage:string;
+    getPurashInCusDetail:string;
+    updateOutPurashStatus:string;
+    exportHeightCus:string;
+    exportCusExcel:string;
+    exportCusHeightExcel:string;
+
+}

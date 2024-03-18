@@ -1,0 +1,10 @@
+.orderDetailRow {
+    height: calc(100vh - 360px);
+    overflow-x: hidden;
+    overflow-y: auto;
+    
+}
+.chidlRows {
+
+background: #ed8d8d4d;
+}

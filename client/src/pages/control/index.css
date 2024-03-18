@@ -1,0 +1,90 @@
+.homePage {
+    width: 100%;
+    background: #f4f4f4;
+    height: calc(100vh - 160px);
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin: 0px auto;
+
+    .homeRow {
+        margin: 0px auto 20px auto;
+
+        .spanTitle {
+            color: #5c5858;
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .scdesc {
+            height: 38px;
+            margin-top: 4px;
+            margin-bottom: 0;
+            overflow: hidden;
+            color: rgba(0, 0, 0, 0.88);
+            font-size: 30px;
+            line-height: 38px;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            word-break: break-all;
+        }
+
+        .daySpan {
+            font-size: 14px;
+            color: rgba(0, 0, 0, 0.88);
+            line-height: 24px;
+        }
+
+        .left {
+            margin-left: 10px;
+        }
+
+        .chartRow {
+            width: 100%;
+            height: 300px;
+        }
+    }
+
+    .rowPadding {
+        position: relative;
+        padding: 15px;
+        background: #fff;
+    }
+
+    .control {
+        right: 15px;
+        height: 35px;
+        position: absolute;
+
+        .controlBar {
+            display: block;
+            float: left;
+            line-height: 35px;
+            padding: 0px 10px;
+            cursor: pointer;
+            width: 60px;
+            text-align: center;
+            border-radius: 5px;
+        }
+
+        .barActive {
+            color: #2d89ed;
+
+        }
+    }
+
+}
+#columnRow {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+#jhRows {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+#leftPile {
+    width: 100%;
+    height: 300px;
+}

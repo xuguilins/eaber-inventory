@@ -1,0 +1,13 @@
+﻿global using LCPC.Share.Response;
+global using MediatR;
+global using LCPC.Domain.CommandHandlers;
+global using LCPC.Domain.Commands;
+global using LCPC.Domain.Entities;
+global using LCPC.Domain.IServices;
+global using LCPC.Domain.Services;
+global using LCPC.Domain.Validates;
+global using LCPC.Domain.IRepositories;
+global using System.Linq.Expressions;
+global using LCPC.Domain.QueriesDtos;
+global using FluentValidation;
+global using MiniExcelLibs.Attributes;

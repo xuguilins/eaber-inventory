@@ -1,0 +1,12 @@
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/bin/Debug/net6.0/LCPC.Hubs.deps.json
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/bin/Debug/net6.0/LCPC.Hubs.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/bin/Debug/net6.0/LCPC.Hubs.pdb
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.csproj.AssemblyReference.cache
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.AssemblyInfoInputs.cache
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.AssemblyInfo.cs
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.csproj.CoreCompileInputs.cache
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/refint/LCPC.Hubs.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/LCPC.Hubs.pdb
+/Users/xuguilin/code/LCPC.Admin/LCPC.Hubs/obj/Debug/net6.0/ref/LCPC.Hubs.dll

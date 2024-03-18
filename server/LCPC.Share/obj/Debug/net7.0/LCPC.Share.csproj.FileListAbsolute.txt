@@ -1,0 +1,13 @@
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/bin/Debug/net7.0/LCPC.Share.deps.json
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/bin/Debug/net7.0/LCPC.Share.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/bin/Debug/net7.0/LCPC.Share.pdb
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.csproj.AssemblyReference.cache
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.AssemblyInfoInputs.cache
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.AssemblyInfo.cs
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.csproj.CoreCompileInputs.cache
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/refint/LCPC.Share.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/LCPC.Share.pdb
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/obj/Debug/net7.0/ref/LCPC.Share.dll
+/Users/xuguilin/code/LCPC.Admin/LCPC.Share/bin/Debug/net7.0/NLog.config

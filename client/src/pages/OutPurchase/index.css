@@ -1,0 +1,85 @@
+.productList {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: calc(100vh - 180px);
+    border-right: 1px solid #e8e8e8;
+    .mp {
+        padding: 10px;
+        text-indent: 1rem;
+        margin: 0px;
+        font-size: 14px;
+        border-bottom: 1px solid #e8e8e8;
+    }
+ 
+}
+.orderTitle {
+    text-align: center;
+    font-size: 24px;
+}
+.pages {
+    height: calc(100vh - 180px);
+}
+.paddingMain {
+    padding: 15px;
+    .input {
+        background: transparent;
+        border: none;
+        font-size: 16px;
+        margin: 0px;
+    }
+}
+.prductFoot {
+    border-right: 1px solid #e8e8e8;
+    border-top: 1px solid #e8e8e8;
+    width: 100%;
+    height: 44px;
+    padding: 5px;
+    text-align: right;
+}
+.activeRow {
+    background: #1577ff4a;
+}
+.printBtn {
+    margin: 10px;
+}
+.inFormP {
+  width: 100%;
+  border-bottom: 1px solid #ece6e6;
+  text-indent: 1em;
+  line-height: 35px;
+  font-size: 16px;
+  margin: 0;
+  padding: 5px 0px;
+}
+.ImianForm {
+   
+    margin: 10px auto;
+    height: calc(100vh - 260px);
+    .saveBtn {
+        float: right;
+        margin: 20px;
+    }
+    
+
+}
+
+.statusDiv {
+    width: 120px;
+    height: 120px;
+    margin: 0px 10px;
+    margin: 10px 0px;
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+.footPayBtn {
+    width: 100%;
+    height: 40px;
+    text-align: right;
+    margin: 10px 0px;
+    button {
+        margin: 0px 10px;
+    }
+}

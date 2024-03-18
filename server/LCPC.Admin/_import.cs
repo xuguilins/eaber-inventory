@@ -1,0 +1,9 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using LCPC.Share.Response;
+global using Microsoft.AspNetCore.Mvc;
+global using LCPC.Domain.IServices;
+global using MediatR;
+global  using LCPC.Domain.Queries;

@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj",
+        "projectName": "LCPC.Domain",
+        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj",
+        "packagesPath": "/Users/xuguilin/.nuget/packages/",
+        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {
+                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj"
+              },
+              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj": {
+                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "System.Diagnostics.PerformanceCounter": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+        "projectName": "LCPC.Hubs",
+        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+        "packagesPath": "/Users/xuguilin/.nuget/packages/",
+        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+        "projectName": "LCPC.Share",
+        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+        "packagesPath": "/Users/xuguilin/.nuget/packages/",
+        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "DynamicExpresso.Core": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            },
+            "MediatR.Extensions.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MiniExcel": {
+              "target": "Package",
+              "version": "[1.31.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.8, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "TinyPinyin.Net": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

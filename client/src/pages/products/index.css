@@ -1,0 +1,39 @@
+.productMain {
+    width: 100%;
+    height: calc(100vh - 90px);
+
+    .productLeft {
+        width: 15%;
+        height: calc(100vh - 90px);
+        overflow-y: hidden;
+        overflow-x: hidden;
+        border-right: 1px solid #ded9d9;
+        float: left;
+
+        .productTitle {
+            height: 42px;
+            line-height: 30px;
+            width: 100%;
+            text-indent: 1em;
+            margin: 0px;
+            padding: 5px;
+            border-bottom: 1px solid #ded9d9
+        }
+
+        .treeLeft {
+            height: calc(100vh - 90px);
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding: 10px;
+
+        }
+    }
+
+    .productRight {
+        width: 85%;
+        height: calc(100vh - 90px);
+        overflow-y: auto;
+        float: left;
+        overflow-x: hidden;
+    }
+}
