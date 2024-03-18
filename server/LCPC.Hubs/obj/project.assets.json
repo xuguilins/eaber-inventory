@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    ".NETCoreApp,Version=v8.0": {
       "Microsoft.AspNetCore.Connections.Abstractions/7.0.15": {
         "type": "package",
         "dependencies": {
@@ -9,14 +9,10 @@
           "System.IO.Pipelines": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll": {}
         }
       },
       "Microsoft.AspNetCore.Http.Connections.Client/7.0.15": {
@@ -27,14 +23,10 @@
           "Microsoft.Extensions.Options": "7.0.1"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Client.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Client.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Client.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Client.dll": {}
         }
       },
       "Microsoft.AspNetCore.Http.Connections.Common/7.0.15": {
@@ -43,14 +35,10 @@
           "Microsoft.AspNetCore.Connections.Abstractions": "7.0.15"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Common.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Common.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Common.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.Http.Connections.Common.dll": {}
         }
       },
       "Microsoft.AspNetCore.SignalR.Client/7.0.15": {
@@ -60,14 +48,10 @@
           "Microsoft.AspNetCore.SignalR.Client.Core": "7.0.15"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.dll": {}
         }
       },
       "Microsoft.AspNetCore.SignalR.Client.Core/7.0.15": {
@@ -80,14 +64,10 @@
           "System.Threading.Channels": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.Core.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.Core.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.Core.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Client.Core.dll": {}
         }
       },
       "Microsoft.AspNetCore.SignalR.Common/7.0.15": {
@@ -97,14 +77,10 @@
           "Microsoft.Extensions.Options": "7.0.1"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Common.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Common.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Common.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Common.dll": {}
         }
       },
       "Microsoft.AspNetCore.SignalR.Protocols.Json/7.0.15": {
@@ -113,14 +89,10 @@
           "Microsoft.AspNetCore.SignalR.Common": "7.0.15"
         },
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection/7.0.0": {
@@ -129,14 +101,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -145,14 +113,10 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -161,14 +125,10 @@
       "Microsoft.Extensions.Features/7.0.15": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.Features.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Features.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.Features.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Features.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/7.0.0": {
@@ -180,14 +140,10 @@
           "Microsoft.Extensions.Options": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.Logging.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Logging.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.Logging.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Logging.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -196,14 +152,10 @@
       "Microsoft.Extensions.Logging.Abstractions/7.0.1": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
@@ -216,14 +168,10 @@
           "Microsoft.Extensions.Primitives": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.Options.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Options.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.Options.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Options.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -232,14 +180,10 @@
       "Microsoft.Extensions.Primitives/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -248,14 +192,10 @@
       "System.IO.Pipelines/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net7.0/System.IO.Pipelines.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/System.IO.Pipelines.dll": {}
         },
         "runtime": {
-          "lib/net7.0/System.IO.Pipelines.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/System.IO.Pipelines.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -264,14 +204,10 @@
       "System.Threading.Channels/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net7.0/System.Threading.Channels.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/System.Threading.Channels.dll": {}
         },
         "runtime": {
-          "lib/net7.0/System.Threading.Channels.dll": {
-            "related": ".xml"
-          }
+          "lib/net7.0/System.Threading.Channels.dll": {}
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -709,7 +645,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    ".NETCoreApp,Version=v8.0": [
       "Microsoft.AspNetCore.SignalR.Client >= 7.0.15"
     ]
   },
@@ -719,11 +655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+      "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
       "projectName": "LCPC.Hubs",
-      "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+      "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
       "packagesPath": "/Users/xuguilin/.nuget/packages/",
-      "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/obj/",
+      "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -736,7 +672,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -748,33 +683,18 @@
     },
     "frameworks": {
       "net8.0": {
-        "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.SignalR.Client": {
             "target": "Package",
             "version": "[7.0.15, )"
           }
         },
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48",
-          "net481"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
       }
     }
   }

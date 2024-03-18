@@ -28,10 +28,12 @@ esccript + vite + mobx
 
 
 如何运行？
+
+前端[client]
 > 前端：安装 `npm install 或 cnpm install` 运行: `npm run dev`
 
 ```
-后端
+后端[server]
 1、将发行包或源代码下载
 2、修改数据库连接字符串,更改**appsettings.json** 文件中`ConnectionStrings:Default`
 3、手动创建数据库，数据库名称为【LCPC】

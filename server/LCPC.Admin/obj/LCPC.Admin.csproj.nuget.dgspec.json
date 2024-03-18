@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Admin/LCPC.Admin.csproj": {}
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Admin/LCPC.Admin.csproj": {}
   },
   "projects": {
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Admin/LCPC.Admin.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Admin/LCPC.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Admin/LCPC.Admin.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Admin/LCPC.Admin.csproj",
         "projectName": "LCPC.Admin",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Admin/LCPC.Admin.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Admin/LCPC.Admin.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Admin/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Admin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -24,16 +24,15 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj": {
-                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj"
+              "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj": {
+                "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj"
               },
-              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {
-                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj"
+              "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj": {
+                "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj"
               },
-              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Infrastructure/LCPC.Infrastructure.csproj": {
-                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Infrastructure/LCPC.Infrastructure.csproj"
+              "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Infrastructure/LCPC.Infrastructure.csproj": {
+                "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Infrastructure/LCPC.Infrastructure.csproj"
               }
             }
           }
@@ -46,7 +45,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -59,37 +57,23 @@
               "version": "[6.5.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj",
         "projectName": "LCPC.Domain",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -102,13 +86,12 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {
-                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj"
+              "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj": {
+                "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj"
               },
-              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj": {
-                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj"
+              "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj": {
+                "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj"
               }
             }
           }
@@ -121,7 +104,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -144,34 +126,18 @@
               "version": "[8.0.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
         "projectName": "LCPC.Hubs",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -184,7 +150,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -196,44 +161,29 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
               "version": "[7.0.15, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Infrastructure/LCPC.Infrastructure.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Infrastructure/LCPC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Infrastructure/LCPC.Infrastructure.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Infrastructure/LCPC.Infrastructure.csproj",
         "projectName": "LCPC.Infrastructure",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Infrastructure/LCPC.Infrastructure.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Infrastructure/LCPC.Infrastructure.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Infrastructure/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -246,10 +196,9 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj": {
-                "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj"
+              "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj": {
+                "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj"
               }
             }
           }
@@ -262,7 +211,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -275,34 +223,18 @@
               "version": "[7.0.13, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj",
         "projectName": "LCPC.Share",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -315,7 +247,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -327,7 +258,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
@@ -366,23 +296,7 @@
               "version": "[1.0.2, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     }

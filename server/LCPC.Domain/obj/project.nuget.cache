@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jw+9S/67uQ9RRG1CxwZjNKiPHExx+M4hTTtYmJ0BizekhoLUurEG0648BgWnI9CYuQPu+79LuuU/Z3tP9+yNzw==",
+  "dgSpecHash": "KLELCPv4OACpPGReGeBz/vVOJzOq3DaOkLqbq+DPimtiKlBwvaY0ABRJyHaeiE2zhBtQKXMbfoPYFXYaVakR0w==",
   "success": true,
-  "projectFilePath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Domain/LCPC.Domain.csproj",
+  "projectFilePath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Domain/LCPC.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/xuguilin/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
     "/Users/xuguilin/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
@@ -87,16 +87,5 @@
     "/Users/xuguilin/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/xuguilin/.nuget/packages/tinypinyin.net/1.0.2/tinypinyin.net.1.0.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Data.SqlClient' 5.1.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "libraryId": "Microsoft.Data.SqlClient",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

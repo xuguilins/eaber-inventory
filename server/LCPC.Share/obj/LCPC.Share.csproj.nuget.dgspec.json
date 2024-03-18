@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj": {}
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj": {}
   },
   "projects": {
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj",
         "projectName": "LCPC.Share",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -36,7 +35,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
@@ -75,23 +73,7 @@
               "version": "[1.0.2, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     }

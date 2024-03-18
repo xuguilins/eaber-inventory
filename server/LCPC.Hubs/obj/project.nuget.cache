@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hzSY45cGOYEm157IDc9udON1QvlDyoKcfbtySE6hk3ohWZAY4bJ3EKDpc/ND13CPss5ww6aa5H7joYP9M8D72g==",
+  "dgSpecHash": "R7OyIjGAo08b6JLoUQ+q4eNJboxkiSuRKOmdF3hzy93qKpapkgs9Msg2d6weV5VJow435Q+SAP9t0LJ3iNKmhg==",
   "success": true,
-  "projectFilePath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+  "projectFilePath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
   "expectedPackageFiles": [
     "/Users/xuguilin/.nuget/packages/microsoft.aspnetcore.connections.abstractions/7.0.15/microsoft.aspnetcore.connections.abstractions.7.0.15.nupkg.sha512",
     "/Users/xuguilin/.nuget/packages/microsoft.aspnetcore.http.connections.client/7.0.15/microsoft.aspnetcore.http.connections.client.7.0.15.nupkg.sha512",

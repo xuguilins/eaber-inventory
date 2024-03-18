@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oxmiQZVFkIENls7DnOdvQIHAQ/pB/IqXwD6fzCC37zCeNAiIYqMdUiri6nSm2Zc7Szs5cOYMS0aNodVxneGQXw==",
+  "dgSpecHash": "Vcc8T87VDWpgET7TW/yka/EbeJtJyjGYcf2nMJQTmOPXADr1yNPQEtLVkR2wqngjzpaCZG1G3xll/NAI5xwF4g==",
   "success": true,
-  "projectFilePath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Share/LCPC.Share.csproj",
+  "projectFilePath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Share/LCPC.Share.csproj",
   "expectedPackageFiles": [
     "/Users/xuguilin/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
     "/Users/xuguilin/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

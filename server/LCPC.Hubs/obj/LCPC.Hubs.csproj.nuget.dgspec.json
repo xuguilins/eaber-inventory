@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {}
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj": {}
   },
   "projects": {
-    "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj": {
+    "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+        "projectUniqueName": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
         "projectName": "LCPC.Hubs",
-        "projectPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/LCPC.Hubs.csproj",
+        "projectPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/LCPC.Hubs.csproj",
         "packagesPath": "/Users/xuguilin/.nuget/packages/",
-        "outputPath": "/Users/xuguilin/Downloads/LCPCAdmin-main/LCPC.Hubs/obj/",
+        "outputPath": "/Users/xuguilin/code/self/openSource/giteeCode/server/LCPC.Hubs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xuguilin/.nuget/NuGet/NuGet.Config"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -36,33 +35,18 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
               "version": "[7.0.15, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     }
